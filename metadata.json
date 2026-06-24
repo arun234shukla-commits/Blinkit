@@ -1,0 +1,6 @@
+{
+  "name": "QuickBasket",
+  "description": "Premium instant grocery delivery application with AI Chef and luxury Material 3 design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
